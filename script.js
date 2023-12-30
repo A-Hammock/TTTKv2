@@ -1,4 +1,4 @@
-let playerSymbol = "CB.png";
+let playerSymbol = <img src= "https://postimg.cc/ft4MBggS"/>;
 let playerSymbol = "TK.png";
 
 let gameEnded = false
