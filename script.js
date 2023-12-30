@@ -1,5 +1,5 @@
-let playerSymbol = "main/CB.png";
-let playerSymbol = "main/TK.png";
+let playerSymbol = img.src= "main/CB.png";
+let playerSymbol = img.src= "main/TK.png";
 
 let gameEnded = false
 
@@ -15,10 +15,10 @@ if (this.innerHTML == "" && !gameEnded) {
 	}
 this.classList.add(playerSymbol.toLowerCase());
 
-if (playerSymbol === "CB.png")
-  playerSymbol = "TK.png"
+if (playerSymbol === img.src= "main/CB.png")
+  playerSymbol = img.src= "main/TK.png"
  else
-	playerSymbol = "CB.png"
+	playerSymbol = img.src= "main/CB.png"
 
 let winPos = [
   [1, 2, 3], [4, 5, 6], 
