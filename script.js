@@ -1,4 +1,4 @@
-let playerSymbol = img.src= "X";
+let playerSymbol = "X";
 let gameEnded = false
 
 let winPos = [
